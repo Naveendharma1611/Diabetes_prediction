@@ -1,6 +1,3 @@
-# Diabetes_prediction
-We want to predict whether a patient has diabetes based on medical features
-
 #  Diabetes Prediction using Machine Learning
 
 ##  Overview
@@ -91,25 +88,13 @@ python diabetes_prediction.py
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 Input Data:
 [2, 120, 70, 20, 79, 25.0, 0.5, 33]
 
 Prediction:
 The person is Non-Diabetic
-
----
-
-##  Project Structure
-
-diabetes-prediction/
-│
-├── diabetes_prediction.py
-├── diabetes.csv
-├── requirements.txt
-└── README.md
----
 
 ##  Future Improvements
 
